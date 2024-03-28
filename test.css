@@ -1,0 +1,16 @@
+#do{
+    text-align: center;
+    background-color: blue;
+    justify-content: center;
+    color: aliceblue;
+    height: 80vh;
+}
+
+.lis{
+    border-radius: 5%;
+    cursor: pointer;
+    background-color: black;
+}
+.giv{
+    justify-content: space-between;
+}
